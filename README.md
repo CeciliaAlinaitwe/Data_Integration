@@ -1,0 +1,6 @@
+ My file is about the NYC yellow taxi data and i have loaded it from Kaggle and this is the link that contains the files that I have installed.
+
+ Downloading from https://www.kaggle.com/api/v1/datasets/download/elemento/nyc-yellow-taxi-trip-data?dataset_version_number=2...
+100%|██████████| 1.78G/1.78G [00:20<00:00, 93.1MB/s]Extracting files...
+
+Path to dataset files: /root/.cache/kagglehub/datasets/elemento/nyc-yellow-taxi-trip-data/versions/2
